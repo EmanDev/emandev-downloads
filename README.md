@@ -1,8 +1,8 @@
 # Introduction
-I made a PHP App on heroku and made h5ai adapt to it.
+H5ai adapted to php app on heroku (served as host server for emandev.github.io downloadable files).
 
 ## Content
-Check for yourselves.
+Downloadable files (archives and etc.).
 
 ## h5ai
 Version 0.29.2
