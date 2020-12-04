@@ -124,7 +124,7 @@
     */
     "download": {
         "enabled": true,
-        "type": "php-tar",
+        "type": "shell-zip",
         "packageName": null,
         "alwaysVisible": false
     },
